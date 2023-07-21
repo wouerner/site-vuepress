@@ -1,0 +1,1 @@
+import{_ as s,o,c,a as e,b as t}from"./app-9b078cf0.js";const _={},n=e("p",null,[t("nome: teste"),e("br"),t(" redes: github.com")],-1),r=[n];function a(l,i){return o(),c("div",null,r)}const m=s(_,[["render",a],["__file","list.html.vue"]]);export{m as default};
