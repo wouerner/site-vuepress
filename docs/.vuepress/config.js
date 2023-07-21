@@ -2,6 +2,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 
 export default {
   theme: defaultTheme({
+      base: '/site-vuepress',
     // set config here
      navbar: [       {
         text: 'Dev',
